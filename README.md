@@ -1,4 +1,10 @@
 # resource-program-paradigm
+```mermaid
+flowchart TB
+ProgramParadigm-->Imperative & Decalarative
+Decalarative-->Functional[Functional Programing]
+Imperative-->OOP & DDD
+```
 
 ## PLAN
 |Domain|Boundary|Input|Output|
